@@ -10,8 +10,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chiragyadav2003" alt="chiragyadav2003" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/chirag_yadav121" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/chirag_yadav121?logo=twitter&style=for-the-badge" alt="https://twitter.com/chirag_yadav121" /></a> </p>
-
 - 🌱 I’m currently learning **Advance NEXT.js and Backend development**
 
 - 💬 Ask me about **React.js, Frontend Development, DSA, C++**
